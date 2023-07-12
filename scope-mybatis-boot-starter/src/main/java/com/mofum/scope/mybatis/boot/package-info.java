@@ -1,0 +1,1 @@
+package com.mofum.scope.mybatis.boot;

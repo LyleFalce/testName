@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.mofum.scope.mybatis.boot.autoconfigure.AutoMybatisScopeProperties,\
+com.mofum.scope.mybatis.boot.autoconfigure.MybatisScopeAutoConfiguration
